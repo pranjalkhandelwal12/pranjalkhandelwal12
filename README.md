@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAGHcbKR3ew/iGuHKQgJYkRfDGY5BjQ0og/view?utm_content=DAGHcbKR3ew&utm_campaign=designshare&utm_medium=link&utm_source=editor)](https://rishavchanda.io)
+![Black   White Modern Personal Branding Youtube Banner](https://github.com/pranjalkhandelwal12/pranjalkhandelwal12/assets/114508256/2cc6f796-fd50-4a82-a8f2-3f1dee62e15f)
 <h1 align="center">Hi 👋, I'm Pranjal Khandelwal</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
